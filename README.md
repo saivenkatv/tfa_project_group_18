@@ -1,11 +1,11 @@
-#################################
-Call Analysis Project
+Title:
+    Call Analysis Project
 
-Group Name - Group 18
-Section - 2
-a) Sai Venkat - sv2667
-b) Sparsh Jain - sj3136
-#################################
+Description:
+    Group Name: Group 18
+    Section - Section - 2
+    Contributors -  a) Sai Venkat - sv2667
+                    b) Sparsh Jain - sj3136
 
 Code Description:
 
