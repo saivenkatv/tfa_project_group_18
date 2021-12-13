@@ -12,7 +12,7 @@ Code Description:
     a) Description:
     Chosen Zipcode - 10027
     
-    Top10.ipynb - This notebook describes the list of top 10 complaint types for the zipcode of 10027 on the basis of no. of calls to the 311 phone number. This list is assigned to the variable 'top10'
+    Top10.ipynb - This notebook describes the list of top 10 complaint types for the zipcode of 10027 on the basis of no. of calls to the 311 phone number. This list is assigned       to the variable 'top10'
     
     Parking.ipynb - This notebook compares the percentage of calls made for illegal parking across the 10027 zipcode and in NYC and includes the following steps:-
         1. Found out the fraction of illegal parking incidents in zipcode 10027
